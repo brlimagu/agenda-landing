@@ -1,40 +1,65 @@
-# [Tailwind VPN Landingpage](https://next-landing-vpn.vercel.app/) - Free Landingpage Template Apps
+<p align="center">
+ <a href="https://web3templates.com/?ref=nextly_github_logo">
+ <img src="https://user-images.githubusercontent.com/1884712/132941531-0fdd7acf-47ca-424e-b77f-1fab2e372a37.png" alt="W3T" width="100" height="41"/>
+ </a> 
+ <br>
+ <br>
+</p>
 
-Tailwind VPN Landingpage is an open source, apps landing page template for [Tailwind CSS](https://tailwindcss.com/) and[ NextJS](nextjs.org/) coded by [Faldi](twitter.com/f2aldi) and design from [Didi](https://twitter.com/didiikurniawann).
+# Nextly - Landing Page Template with Next.js & Tailwind CSS
 
-![Landing Page](./landingpage.png)
+Nextly is a free landing page & marketing website template for  startups and indie projects. Its built with Next.js & TailwindCSS.
+And its completely open-source.
+ 
+![image](https://user-images.githubusercontent.com/1884712/121497169-03228680-c990-11eb-975a-e77fddc43de0.png)
 
-## Getting Started
+## How to use
 
-Choose one of the following options to get started:
+Click on the [Use Template](https://github.com/surjithctly/nextly-template/generate) button on this page to clone this respository to your github account. Or you can also clone this respository using terminal or bash. 
 
-- [Download the latest release](https://github.com/naufaldi/next-landing-vpn/archive/main.zip)
-- Clone the repo: `git clone https://github.com/naufaldi/next-landing-vpn.git`
-- Fork the repo
+### 1\. Clone this Repository
 
-## About the Template
+```bash
+git clone https://github.com/surjithctly/nextly-template.git
+```
 
-- Template building using NextJS Version 10
-- Tailwind v2.0
+### 2\. Navigate to the directory
 
-## Feature Template
+```
+cd nextly-template
+```
 
-- Using [NextJS Image](https://nextjs.org/docs/api-reference/next/image) for Image Optimization
-- Slider using [React Slick](https://react-slick.neostack.com/docs/api)
-- Smooth Scrolling and Active menu using [React Scroll](https://www.npmjs.com/package/react-scroll)
+### 3\. Install dependencies
 
-## Bugs and Issues
+```
+yarn install
+# or
+npm install
+```
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/naufaldi/next-landing-vpn/issues/new) here on GitHub.
+### 5\. Run Dev Server
 
-## Creator
+```
+yarn dev
+# or
+npm run dev
+```
 
-[Tailwind VPN Landingpage](https://next-landing-vpn.vercel.app/) was coded and modified by and is maintained by **[me](https://github.com/naufaldi/)**, and dekstop design by [Didi Kurniawan](https://twitter.com/didiikurniawann)
+## Deploy with Vercel
 
-## Copyright and License
+Deploy this template using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
 
-Code released under the MIT license.
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/surjithctly/nextly-template&project-name=nextly-template&repository-name=nextly-template)
 
-## To Do List Add Feature
 
-- [ ] Animation using Framer Motion
+## Author
+
+Surjith S M ( [@surjithctly](https://surjithctly.in/) )
+
+---
+
+[![image](https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg)](https://vercel.com/?utm_source=web3templates&utm_campaign=oss)
+
+
+
+
